@@ -14,3 +14,6 @@
 
 [《汇编语言》论坛](http://www.asmedu.net/bbs/forum.jsp)
 
+辅助软件：
+
+[学习《汇编语言》使用的软件](http://jikebiancheng.com/index.php/Tools/23.html)
