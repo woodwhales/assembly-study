@@ -18,6 +18,8 @@ Professional Assembly Language Richard Blum
 
 Assembly Language Step-by-Step Jeff Duntemann著
 
+编码的奥秘 Charles Petzold著
+
 ## 参考教程
 
 [汇编语言从0开始 到C语言](https://study.163.com/course/introduction/1640004.htm)
