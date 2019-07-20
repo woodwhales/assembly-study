@@ -18,6 +18,8 @@ Professional Assembly Language Richard Blum
 
 Assembly Language Step-by-Step Jeff Duntemann著
 
+汇编语言编程艺术 Randall Hyde著
+
 编码：隐匿在计算机软硬件背后的语言 Charles Petzold著
 
 ## 参考教程
